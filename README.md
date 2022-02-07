@@ -18,7 +18,7 @@ To install the program use the following steps.
 
 2. Open your terminal and navigate to the repo
 
-3. type "npm init" to install all neccessary node_modules (They are no tracked by github)
+3. type "npm install" to install all neccessary node_modules (They are no tracked by github)
 
 4. type "node app" to run the application!
 
